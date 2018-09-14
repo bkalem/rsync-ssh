@@ -6,4 +6,3 @@ RUN apk --update add \
   openssh \ 
   && \
   rm -rf /var/cache/apk/*
-
